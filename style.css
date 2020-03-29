@@ -1,0 +1,13 @@
+.nav-link {
+    color: #cbbde2;
+}
+header {
+    background-color: darkgray;
+    height: 500px;
+}
+.carousel-item {
+    height: 450px;
+}
+.margin-up {
+    margin-top: 80px;
+}
