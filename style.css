@@ -2,7 +2,7 @@
     color: #cbbde2;
 }
 header {
-    background-color: darkgray;
+    background-color: #292a2e;
     height: 500px;
 }
 .carousel-item {
@@ -10,4 +10,12 @@ header {
 }
 .margin-up {
     margin-top: 80px;
+}
+
+.carousel--text {
+    color: #a1a2a6;
+}
+.active-text {
+    font-weight: bold;
+    color: white !important;
 }
